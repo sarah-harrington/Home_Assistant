@@ -1,0 +1,8 @@
+docker compose version ( show our version )
+
+docker compose -f <file_path_of_docker_compose.yaml> ( start normally, in current terminal )
+
+docker compose -d -f <file_path.yaml> ( disconnect after starting ( start in background ) )
+
+The one that works the best so far: ***
+docker compose -f docker_compose.yaml up

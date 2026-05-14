@@ -1,0 +1,4 @@
+http://localhost:8123/
+
+// Some needed this link, just in case
+http://hassio.local:8123/
